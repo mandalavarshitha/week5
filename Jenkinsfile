@@ -8,4 +8,4 @@ echo 'jenkins build succesful!'
 }
 }
 }
-]
+}
